@@ -163,17 +163,3 @@ UML • Object-Oriented Programming (OOP)
 </div>
 ```
 
-Perfect! Your README.md file is now ready for download. You can click the "Download Code" button at the top right of the preview to get the file. 
-
-The README includes:
-- ✅ Professional header with banner illustration
-- ✅ Your complete CV information organized professionally  
-- ✅ Technical skills from your experience
-- ✅ Work history and projects
-- ✅ Education and certifications
-- ✅ GitHub stats integration
-- ✅ Social media badges and contact info
-- ✅ Technology badges showcasing your expertise
-
-Once downloaded, you can upload this README.md file to your GitHub profile repository to create an impressive profile page!
-
