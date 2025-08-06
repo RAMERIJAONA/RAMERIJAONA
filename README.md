@@ -1,4 +1,4 @@
-![Header Banner](/placeholder.svg?height=200&width=800&query=colorful tech banner with programming icons, databases, frameworks like React, Node.js, TypeScript, modern developer workspace illustration)
+<!-- ![Header Banner](/placeholder.svg?height=200&width=800&query=colorful tech banner with programming icons, databases, frameworks like React, Node.js, TypeScript, modern developer workspace illustration) -->
 
 # Hi 👋, I'm Keke Tantely RAMERIJAONA
 
@@ -118,11 +118,11 @@ UML • Object-Oriented Programming (OOP)
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keketantely&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keketantely&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keketantely&layout=compact&theme=radical) -->
 
 ---
 
