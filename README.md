@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Keke Tantely RAMERIJAONA
 
-<img align="right" alt="Profile Avatar" width="150px" src="/placeholder.svg?height=150&width=150" />
+<!-- <img align="right" alt="Profile Avatar" width="150px" src="/placeholder.svg?height=150&width=150" /> -->
 
 ### 🚀 Fullstack JavaScript Developer & IT Consultant
 
@@ -152,9 +152,9 @@ UML • Object-Oriented Programming (OOP)
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=keketantely&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+</div> -->
 
 <div align="center">
   
