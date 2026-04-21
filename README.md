@@ -48,7 +48,7 @@ UML • Object-Oriented Programming (OOP)
 
 ## 💼 Professional Experience
 
-### 🏢 IT Consultant - T2S Consulting (Paris)
+### 🏢 IT Consultant - Levea (Paris)
 **Mai 2022 - Present**
 - Code review support and mentoring
 - Feature development with React, React Native, Parse server, Node.js
