@@ -49,7 +49,15 @@ UML • Object-Oriented Programming (OOP)
 ## 💼 Professional Experience
 
 ### 🏢 IT Consultant - T2S Consulting (Paris)
-**October 2021 - Present**
+**Mai 2022 - Present**
+- Code review support and mentoring
+- Feature development with React, React Native, Parse server, Node.js
+- Database design and modeling (PostgreSQL, MySQL, MongoDB)
+- Project architecture conception
+- Technical documentation and testing
+
+### 🏢 IT Consultant - T2S Consulting (Paris)
+**October 2021 - Aout 2023**
 - Code review support and mentoring
 - Feature development with React, React Native, Prisma, GraphQL, Node.js
 - Database design and modeling (PostgreSQL, MySQL, MongoDB)
